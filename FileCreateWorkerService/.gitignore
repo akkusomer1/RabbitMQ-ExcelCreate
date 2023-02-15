@@ -1,0 +1,14 @@
+bin/*
+obj/*
+.vs/*
+appsettings.json
+appsettings.Development.json
+launchSettings
+FileCreateWorkerService.csproj
+.env
+/packages
+/binaries
+/logs
+/publish
+/obj
+/wwwroot/dist

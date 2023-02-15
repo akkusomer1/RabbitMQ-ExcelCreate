@@ -1,0 +1,14 @@
+bin/*
+obj/*
+.vs/*
+appsettings.json
+appsettings.Development.json
+launchSettings
+RabbitMQWeb.ExcelCreate.csproj
+.env
+/packages
+/binaries
+/logs
+/publish
+/obj
+/wwwroot/dist
